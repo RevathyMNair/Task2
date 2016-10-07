@@ -1,0 +1,33 @@
+body{
+	background-color: #8bc34a;
+}
+h1{
+	background-color: #009688;
+	padding: 10px;
+	text-align: center;
+	font-size: 40px;
+}
+.list{
+	padding-left: 300px;
+	font-size: 25px;
+	line-height: 45px;
+	background-image: url("../images/bg.jpg");
+	background-repeat: no-repeat;
+	background-position: 745px 43px;
+    background-size: 475px;
+}
+.list a{
+	text-decoration: none;
+}
+p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 20px;
+}
+.image{
+	padding-left: 200px;
+	width: 500px;
+	height: 300px;
+
+	display: block;
+}
